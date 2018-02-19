@@ -1,0 +1,1227 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="sex" type="string" />
+      <attribute id="2" title="sex_int" type="long" />
+      <attribute id="3" title="race" type="string" />
+      <attribute id="4" title="race_int" type="long" />
+      <attribute id="5" title="birthyear" type="long" />
+      <attribute id="6" title="position" type="string" />
+      <attribute id="7" title="position_int" type="long" />
+      <attribute id="8" title="season" type="long" />
+      <attribute id="9" title="sign" type="string" />
+      <attribute id="10" title="Grad" type="long" />
+      <attribute id="11" title="Eccentricity" type="double" />
+      <attribute id="12" title="Closeness Centrality" type="double" />
+      <attribute id="13" title="Harmonic Closeness Centrality" type="double" />
+      <attribute id="14" title="Betweenness Centrality" type="double" />
+      <attribute id="15" title="Modularity Class" type="long" />
+      <attribute id="16" title="size" type="double" />
+      <attribute id="17" title="r" type="long" />
+      <attribute id="18" title="g" type="long" />
+      <attribute id="19" title="b" type="long" />
+      <attribute id="20" title="x" type="double" />
+      <attribute id="21" title="y" type="double" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.0</creator>
+      <lastmodified>17/02/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="1" label="addison">
+        <attvalues>
+          <attvalue for="0" value="addison" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1967" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Libra" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="5.0" />
+          <attvalue for="12" value="0.39473684210526316" />
+          <attvalue for="13" value="0.46055555555555555" />
+          <attvalue for="14" value="0.08036175710594315" />
+          <attvalue for="15" value="1" />
+          <attvalue for="16" value="7.25" />
+          <attvalue for="17" value="76" />
+          <attvalue for="18" value="70" />
+          <attvalue for="19" value="62" />
+          <attvalue for="20" value="-47.600704" />
+          <attvalue for="21" value="-25.963463" />
+        </attvalues>
+      </node>
+      <node id="2" label="adele">
+        <attvalues>
+          <attvalue for="0" value="adele" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Black" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="1949" />
+          <attvalue for="6" value="Non-Staff" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="Leo" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="4.0" />
+          <attvalue for="12" value="0.4166666666666667" />
+          <attvalue for="13" value="0.5166666666666667" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="6" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="196" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-154.07422" />
+          <attvalue for="21" value="204.1912" />
+        </attvalues>
+      </node>
+      <node id="3" label="altman">
+        <attvalues>
+          <attvalue for="0" value="altman" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1969" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="6" />
+          <attvalue for="9" value="Pisces" />
+          <attvalue for="10" value="4" />
+          <attvalue for="11" value="5.0" />
+          <attvalue for="12" value="0.3333333333333333" />
+          <attvalue for="13" value="0.42388888888888887" />
+          <attvalue for="14" value="0.16943521594684385" />
+          <attvalue for="15" value="7" />
+          <attvalue for="16" value="9.375" />
+          <attvalue for="17" value="115" />
+          <attvalue for="18" value="192" />
+          <attvalue for="19" value="0" />
+          <attvalue for="20" value="-199.60075" />
+          <attvalue for="21" value="-54.82497" />
+        </attvalues>
+      </node>
+      <node id="4" label="amelia">
+        <attvalues>
+          <attvalue for="0" value="amelia" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1981" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="7" />
+          <attvalue for="9" value="Libra" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="5.0" />
+          <attvalue for="12" value="0.29411764705882354" />
+          <attvalue for="13" value="0.33999999999999997" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="5" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="189" />
+          <attvalue for="19" value="148" />
+          <attvalue for="20" value="-132.92058" />
+          <attvalue for="21" value="-5.3807755" />
+        </attvalues>
+      </node>
+      <node id="5" label="arizona">
+        <attvalues>
+          <attvalue for="0" value="arizona" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1976" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="5" />
+          <attvalue for="9" value="Leo" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="6.0" />
+          <attvalue for="12" value="0.297029702970297" />
+          <attvalue for="13" value="0.3372222222222222" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="3" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="255" />
+          <attvalue for="18" value="136" />
+          <attvalue for="19" value="5" />
+          <attvalue for="20" value="-85.074905" />
+          <attvalue for="21" value="29.346485" />
+        </attvalues>
+      </node>
+      <node id="6" label="ava">
+        <attvalues>
+          <attvalue for="0" value="ava" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1975" />
+          <attvalue for="6" value="Non-Staff" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="Gemini" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="7.0" />
+          <attvalue for="12" value="0.2830188679245283" />
+          <attvalue for="13" value="0.34563492063492063" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="2" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="223" />
+          <attvalue for="18" value="137" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="24.75924" />
+          <attvalue for="21" value="-68.325386" />
+        </attvalues>
+      </node>
+      <node id="7" label="avery">
+        <attvalues>
+          <attvalue for="0" value="avery" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Black" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="1981" />
+          <attvalue for="6" value="Resident" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="6" />
+          <attvalue for="9" value="Leo" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="6.0" />
+          <attvalue for="12" value="0.27522935779816515" />
+          <attvalue for="13" value="0.3327777777777777" />
+          <attvalue for="14" value="0.0035991140642303433" />
+          <attvalue for="15" value="2" />
+          <attvalue for="16" value="5.125" />
+          <attvalue for="17" value="223" />
+          <attvalue for="18" value="137" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-58.00541" />
+          <attvalue for="21" value="-100.49564" />
+        </attvalues>
+      </node>
+      <node id="8" label="bailey">
+        <attvalues>
+          <attvalue for="0" value="bailey" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Black" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="1969" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Virgo" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="1.0" />
+          <attvalue for="14" value="0.0033222591362126247" />
+          <attvalue for="15" value="0" />
+          <attvalue for="16" value="7.25" />
+          <attvalue for="17" value="255" />
+          <attvalue for="18" value="85" />
+          <attvalue for="19" value="132" />
+          <attvalue for="20" value="-257.58893" />
+          <attvalue for="21" value="50.35244" />
+        </attvalues>
+      </node>
+      <node id="9" label="ben">
+        <attvalues>
+          <attvalue for="0" value="ben" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Black" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="1972" />
+          <attvalue for="6" value="Other" />
+          <attvalue for="7" value="7" />
+          <attvalue for="8" value="6" />
+          <attvalue for="9" value="Aquarius" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="2.0" />
+          <attvalue for="12" value="0.6" />
+          <attvalue for="13" value="0.6666666666666666" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="0" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="255" />
+          <attvalue for="18" value="85" />
+          <attvalue for="19" value="132" />
+          <attvalue for="20" value="-231.5199" />
+          <attvalue for="21" value="64.142845" />
+        </attvalues>
+      </node>
+      <node id="10" label="burton">
+        <attvalues>
+          <attvalue for="0" value="burton" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1972" />
+          <attvalue for="6" value="Non-Staff" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="7" />
+          <attvalue for="9" value="Cancer" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="6.0" />
+          <attvalue for="12" value="0.25210084033613445" />
+          <attvalue for="13" value="0.2966666666666667" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="7" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="115" />
+          <attvalue for="18" value="192" />
+          <attvalue for="19" value="0" />
+          <attvalue for="20" value="-223.37483" />
+          <attvalue for="21" value="-33.91699" />
+        </attvalues>
+      </node>
+      <node id="11" label="catherine">
+        <attvalues>
+          <attvalue for="0" value="catherine" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Other" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1950" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="8" />
+          <attvalue for="9" value="Capricorn" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="4.0" />
+          <attvalue for="12" value="0.4166666666666667" />
+          <attvalue for="13" value="0.5166666666666667" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="6" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="196" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-185.27661" />
+          <attvalue for="21" value="173.67355" />
+        </attvalues>
+      </node>
+      <node id="12" label="chief">
+        <attvalues>
+          <attvalue for="0" value="chief" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Black" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="1954" />
+          <attvalue for="6" value="Chief" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Scorpio" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="3.0" />
+          <attvalue for="12" value="0.625" />
+          <attvalue for="13" value="0.7666666666666667" />
+          <attvalue for="14" value="0.007751937984496124" />
+          <attvalue for="15" value="6" />
+          <attvalue for="16" value="7.25" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="196" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-155.31738" />
+          <attvalue for="21" value="174.35876" />
+        </attvalues>
+      </node>
+      <node id="13" label="colin">
+        <attvalues>
+          <attvalue for="0" value="colin" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1944" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="Taurus" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="8.0" />
+          <attvalue for="12" value="0.17964071856287425" />
+          <attvalue for="13" value="0.2261111111111111" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="7" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="115" />
+          <attvalue for="18" value="192" />
+          <attvalue for="19" value="0" />
+          <attvalue for="20" value="-318.105" />
+          <attvalue for="21" value="-102.84882" />
+        </attvalues>
+      </node>
+      <node id="14" label="denny">
+        <attvalues>
+          <attvalue for="0" value="denny" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1966" />
+          <attvalue for="6" value="Non-Staff" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="Taurus" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="8.0" />
+          <attvalue for="12" value="0.24390243902439024" />
+          <attvalue for="13" value="0.298095238095238" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="2" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="223" />
+          <attvalue for="18" value="137" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="13.489052" />
+          <attvalue for="21" value="82.42248" />
+        </attvalues>
+      </node>
+      <node id="15" label="derek">
+        <attvalues>
+          <attvalue for="0" value="derek" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1966" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Capricorn" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="6.0" />
+          <attvalue for="12" value="0.30927835051546393" />
+          <attvalue for="13" value="0.36777777777777765" />
+          <attvalue for="14" value="0.02807308970099668" />
+          <attvalue for="15" value="1" />
+          <attvalue for="16" value="5.125" />
+          <attvalue for="17" value="76" />
+          <attvalue for="18" value="70" />
+          <attvalue for="19" value="62" />
+          <attvalue for="20" value="28.807648" />
+          <attvalue for="21" value="-6.146232" />
+        </attvalues>
+      </node>
+      <node id="16" label="ellis grey">
+        <attvalues>
+          <attvalue for="0" value="ellis grey" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1957" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Virgo" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="2.0" />
+          <attvalue for="12" value="0.625" />
+          <attvalue for="13" value="0.7" />
+          <attvalue for="14" value="0.006644518272425249" />
+          <attvalue for="15" value="6" />
+          <attvalue for="16" value="5.125" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="196" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-132.56772" />
+          <attvalue for="21" value="149.58408" />
+        </attvalues>
+      </node>
+      <node id="17" label="finn">
+        <attvalues>
+          <attvalue for="0" value="finn" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1970" />
+          <attvalue for="6" value="Non-Staff" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="Cancer" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="8.0" />
+          <attvalue for="12" value="0.2222222222222222" />
+          <attvalue for="13" value="0.2730952380952381" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="1" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="76" />
+          <attvalue for="18" value="70" />
+          <attvalue for="19" value="62" />
+          <attvalue for="20" value="93.47692" />
+          <attvalue for="21" value="12.432633" />
+        </attvalues>
+      </node>
+      <node id="18" label="grey">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1969" />
+          <attvalue for="6" value="Resident" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Scorpio" />
+          <attvalue for="10" value="4" />
+          <attvalue for="11" value="7.0" />
+          <attvalue for="12" value="0.2830188679245283" />
+          <attvalue for="13" value="0.3834126984126983" />
+          <attvalue for="14" value="0.06777408637873754" />
+          <attvalue for="15" value="1" />
+          <attvalue for="16" value="9.375" />
+          <attvalue for="17" value="76" />
+          <attvalue for="18" value="70" />
+          <attvalue for="19" value="62" />
+          <attvalue for="20" value="61.171688" />
+          <attvalue for="21" value="21.896738" />
+        </attvalues>
+      </node>
+      <node id="19" label="hahn">
+        <attvalues>
+          <attvalue for="0" value="hahn" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1967" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="Gemini" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="6.0" />
+          <attvalue for="12" value="0.297029702970297" />
+          <attvalue for="13" value="0.33722222222222215" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="3" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="255" />
+          <attvalue for="18" value="136" />
+          <attvalue for="19" value="5" />
+          <attvalue for="20" value="-59.383064" />
+          <attvalue for="21" value="47.214516" />
+        </attvalues>
+      </node>
+      <node id="20" label="hank">
+        <attvalues>
+          <attvalue for="0" value="hank" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1975" />
+          <attvalue for="6" value="Non-Staff" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Sagittarius" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="8.0" />
+          <attvalue for="12" value="0.24390243902439024" />
+          <attvalue for="13" value="0.298095238095238" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="2" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="223" />
+          <attvalue for="18" value="137" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-19.038597" />
+          <attvalue for="21" value="86.29137" />
+        </attvalues>
+      </node>
+      <node id="21" label="izzie">
+        <attvalues>
+          <attvalue for="0" value="izzie" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1978" />
+          <attvalue for="6" value="Resident" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Sagittarius" />
+          <attvalue for="10" value="4" />
+          <attvalue for="11" value="7.0" />
+          <attvalue for="12" value="0.3191489361702128" />
+          <attvalue for="13" value="0.4295238095238095" />
+          <attvalue for="14" value="0.07115435321415386" />
+          <attvalue for="15" value="2" />
+          <attvalue for="16" value="9.375" />
+          <attvalue for="17" value="223" />
+          <attvalue for="18" value="137" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-6.953153" />
+          <attvalue for="21" value="54.046448" />
+        </attvalues>
+      </node>
+      <node id="22" label="karev">
+        <attvalues>
+          <attvalue for="0" value="karev" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1970" />
+          <attvalue for="6" value="Resident" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Cancer" />
+          <attvalue for="10" value="9" />
+          <attvalue for="11" value="6.0" />
+          <attvalue for="12" value="0.38961038961038963" />
+          <attvalue for="13" value="0.5483333333333333" />
+          <attvalue for="14" value="0.1940093867004166" />
+          <attvalue for="15" value="2" />
+          <attvalue for="16" value="20.0" />
+          <attvalue for="17" value="223" />
+          <attvalue for="18" value="137" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-13.86601" />
+          <attvalue for="21" value="-37.564064" />
+        </attvalues>
+      </node>
+      <node id="23" label="kepner">
+        <attvalues>
+          <attvalue for="0" value="kepner" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1980" />
+          <attvalue for="6" value="Resident" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="6" />
+          <attvalue for="9" value="Libra" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="7.0" />
+          <attvalue for="12" value="0.28846153846153844" />
+          <attvalue for="13" value="0.36785714285714277" />
+          <attvalue for="14" value="0.00807889047091705" />
+          <attvalue for="15" value="2" />
+          <attvalue for="16" value="5.125" />
+          <attvalue for="17" value="223" />
+          <attvalue for="18" value="137" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-29.98987" />
+          <attvalue for="21" value="-86.79642" />
+        </attvalues>
+      </node>
+      <node id="24" label="lexi">
+        <attvalues>
+          <attvalue for="0" value="lexi" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1982" />
+          <attvalue for="6" value="Resident" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="Aries" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="5.0" />
+          <attvalue for="12" value="0.36585365853658536" />
+          <attvalue for="13" value="0.4433333333333333" />
+          <attvalue for="14" value="0.05744344249327636" />
+          <attvalue for="15" value="2" />
+          <attvalue for="16" value="7.25" />
+          <attvalue for="17" value="223" />
+          <attvalue for="18" value="137" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-67.76165" />
+          <attvalue for="21" value="-64.94022" />
+        </attvalues>
+      </node>
+      <node id="25" label="lloyd">
+        <attvalues>
+          <attvalue for="0" value="lloyd" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Black" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="1971" />
+          <attvalue for="6" value="Nurse" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="7" />
+          <attvalue for="9" value="Capricorn" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="2.0" />
+          <attvalue for="12" value="0.6" />
+          <attvalue for="13" value="0.6666666666666666" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="0" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="255" />
+          <attvalue for="18" value="85" />
+          <attvalue for="19" value="132" />
+          <attvalue for="20" value="-281.40973" />
+          <attvalue for="21" value="67.98176" />
+        </attvalues>
+      </node>
+      <node id="26" label="lucy">
+        <attvalues>
+          <attvalue for="0" value="lucy" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1984" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="7" />
+          <attvalue for="9" value="Cancer" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="7.0" />
+          <attvalue for="12" value="0.2830188679245283" />
+          <attvalue for="13" value="0.34563492063492063" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="2" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="223" />
+          <attvalue for="18" value="137" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="22.735199" />
+          <attvalue for="21" value="-40.118774" />
+        </attvalues>
+      </node>
+      <node id="27" label="megan">
+        <attvalues>
+          <attvalue for="0" value="megan" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1979" />
+          <attvalue for="6" value="Intern" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="4" />
+          <attvalue for="9" value="NA" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="1.0" />
+          <attvalue for="14" value="0.0011074197120708748" />
+          <attvalue for="15" value="4" />
+          <attvalue for="16" value="5.125" />
+          <attvalue for="17" value="211" />
+          <attvalue for="18" value="179" />
+          <attvalue for="19" value="176" />
+          <attvalue for="20" value="140.15883" />
+          <attvalue for="21" value="-91.38811" />
+        </attvalues>
+      </node>
+      <node id="28" label="mostow">
+        <attvalues>
+          <attvalue for="0" value="mostow" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1985" />
+          <attvalue for="6" value="Intern" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="4" />
+          <attvalue for="9" value="Gemini" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="2.0" />
+          <attvalue for="12" value="0.6666666666666666" />
+          <attvalue for="13" value="0.75" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="4" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="211" />
+          <attvalue for="18" value="179" />
+          <attvalue for="19" value="176" />
+          <attvalue for="20" value="161.89229" />
+          <attvalue for="21" value="-109.08305" />
+        </attvalues>
+      </node>
+      <node id="29" label="mrs. seabury">
+        <attvalues>
+          <attvalue for="0" value="mrs. seabury" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1952" />
+          <attvalue for="6" value="Non-Staff" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="Leo" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="7.0" />
+          <attvalue for="12" value="0.2830188679245283" />
+          <attvalue for="13" value="0.34563492063492063" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="2" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="223" />
+          <attvalue for="18" value="137" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-2.7248185" />
+          <attvalue for="21" value="-72.22063" />
+        </attvalues>
+      </node>
+      <node id="30" label="nancy">
+        <attvalues>
+          <attvalue for="0" value="nancy" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1965" />
+          <attvalue for="6" value="Non-Staff" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="Leo" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="5.0" />
+          <attvalue for="12" value="0.29411764705882354" />
+          <attvalue for="13" value="0.33999999999999997" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="5" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="189" />
+          <attvalue for="19" value="148" />
+          <attvalue for="20" value="-127.41574" />
+          <attvalue for="21" value="-66.40494" />
+        </attvalues>
+      </node>
+      <node id="31" label="olivia">
+        <attvalues>
+          <attvalue for="0" value="olivia" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1982" />
+          <attvalue for="6" value="Nurse" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Capricorn" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="7.0" />
+          <attvalue for="12" value="0.30612244897959184" />
+          <attvalue for="13" value="0.385079365079365" />
+          <attvalue for="14" value="0.008031429626114011" />
+          <attvalue for="15" value="3" />
+          <attvalue for="16" value="5.125" />
+          <attvalue for="17" value="255" />
+          <attvalue for="18" value="136" />
+          <attvalue for="19" value="5" />
+          <attvalue for="20" value="-3.4515853" />
+          <attvalue for="21" value="-0.85869277" />
+        </attvalues>
+      </node>
+      <node id="32" label="o'malley">
+        <attvalues>
+          <attvalue for="0" value="o'malley" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1973" />
+          <attvalue for="6" value="Resident" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Aries" />
+          <attvalue for="10" value="4" />
+          <attvalue for="11" value="6.0" />
+          <attvalue for="12" value="0.35294117647058826" />
+          <attvalue for="13" value="0.4455555555555556" />
+          <attvalue for="14" value="0.08233665559246954" />
+          <attvalue for="15" value="3" />
+          <attvalue for="16" value="9.375" />
+          <attvalue for="17" value="255" />
+          <attvalue for="18" value="136" />
+          <attvalue for="19" value="5" />
+          <attvalue for="20" value="11.461094" />
+          <attvalue for="21" value="27.478655" />
+        </attvalues>
+      </node>
+      <node id="33" label="owen">
+        <attvalues>
+          <attvalue for="0" value="owen" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1973" />
+          <attvalue for="6" value="Chief" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="5" />
+          <attvalue for="9" value="Leo" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="6.0" />
+          <attvalue for="12" value="0.26548672566371684" />
+          <attvalue for="13" value="0.33555555555555555" />
+          <attvalue for="14" value="0.08970099667774087" />
+          <attvalue for="15" value="7" />
+          <attvalue for="16" value="5.125" />
+          <attvalue for="17" value="115" />
+          <attvalue for="18" value="192" />
+          <attvalue for="19" value="0" />
+          <attvalue for="20" value="-255.11842" />
+          <attvalue for="21" value="-68.28275" />
+        </attvalues>
+      </node>
+      <node id="34" label="perkins">
+        <attvalues>
+          <attvalue for="0" value="perkins" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1965" />
+          <attvalue for="6" value="Other" />
+          <attvalue for="7" value="7" />
+          <attvalue for="8" value="7" />
+          <attvalue for="9" value="Leo" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="6.0" />
+          <attvalue for="12" value="0.25210084033613445" />
+          <attvalue for="13" value="0.2966666666666667" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="7" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="115" />
+          <attvalue for="18" value="192" />
+          <attvalue for="19" value="0" />
+          <attvalue for="20" value="-211.72856" />
+          <attvalue for="21" value="-83.99604" />
+        </attvalues>
+      </node>
+      <node id="35" label="pierce">
+        <attvalues>
+          <attvalue for="0" value="pierce" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1986" />
+          <attvalue for="6" value="Intern" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="4" />
+          <attvalue for="9" value="NA" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="2.0" />
+          <attvalue for="12" value="0.6666666666666666" />
+          <attvalue for="13" value="0.75" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="4" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="211" />
+          <attvalue for="18" value="179" />
+          <attvalue for="19" value="176" />
+          <attvalue for="20" value="115.68843" />
+          <attvalue for="21" value="-77.75786" />
+        </attvalues>
+      </node>
+      <node id="36" label="preston">
+        <attvalues>
+          <attvalue for="0" value="preston" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Black" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="1963" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Leo" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="8.0" />
+          <attvalue for="12" value="0.17964071856287425" />
+          <attvalue for="13" value="0.22611111111111112" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="7" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="115" />
+          <attvalue for="18" value="192" />
+          <attvalue for="19" value="0" />
+          <attvalue for="20" value="-327.04626" />
+          <attvalue for="21" value="-67.40504" />
+        </attvalues>
+      </node>
+      <node id="37" label="reed">
+        <attvalues>
+          <attvalue for="0" value="reed" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1981" />
+          <attvalue for="6" value="Resident" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="6" />
+          <attvalue for="9" value="Aquarius" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="5.0" />
+          <attvalue for="12" value="0.29411764705882354" />
+          <attvalue for="13" value="0.33999999999999997" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="5" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="189" />
+          <attvalue for="19" value="148" />
+          <attvalue for="20" value="-146.93886" />
+          <attvalue for="21" value="-36.316795" />
+        </attvalues>
+      </node>
+      <node id="38" label="sloan">
+        <attvalues>
+          <attvalue for="0" value="sloan" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1972" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="Scorpio" />
+          <attvalue for="10" value="7" />
+          <attvalue for="11" value="4.0" />
+          <attvalue for="12" value="0.410958904109589" />
+          <attvalue for="13" value="0.5222222222222224" />
+          <attvalue for="14" value="0.25787322681010394" />
+          <attvalue for="15" value="5" />
+          <attvalue for="16" value="15.75" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="189" />
+          <attvalue for="19" value="148" />
+          <attvalue for="20" value="-112.00955" />
+          <attvalue for="21" value="-34.408348" />
+        </attvalues>
+      </node>
+      <node id="39" label="steve">
+        <attvalues>
+          <attvalue for="0" value="steve" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Other" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1984" />
+          <attvalue for="6" value="Non-Staff" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="Gemini" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="8.0" />
+          <attvalue for="12" value="0.2222222222222222" />
+          <attvalue for="13" value="0.2730952380952381" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="1" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="76" />
+          <attvalue for="18" value="70" />
+          <attvalue for="19" value="62" />
+          <attvalue for="20" value="85.08939" />
+          <attvalue for="21" value="45.79436" />
+        </attvalues>
+      </node>
+      <node id="40" label="susan grey">
+        <attvalues>
+          <attvalue for="0" value="susan grey" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1959" />
+          <attvalue for="6" value="Non-Staff" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="Taurus" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="4.0" />
+          <attvalue for="12" value="0.35714285714285715" />
+          <attvalue for="13" value="0.4666666666666666" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="6" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="196" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-95.98416" />
+          <attvalue for="21" value="103.44501" />
+        </attvalues>
+      </node>
+      <node id="41" label="thatch grey">
+        <attvalues>
+          <attvalue for="0" value="thatch grey" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="White" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1955" />
+          <attvalue for="6" value="Non-Staff" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="Leo" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="3.0" />
+          <attvalue for="12" value="0.5" />
+          <attvalue for="13" value="0.6333333333333333" />
+          <attvalue for="14" value="0.004429678848283499" />
+          <attvalue for="15" value="6" />
+          <attvalue for="16" value="5.125" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="196" />
+          <attvalue for="19" value="255" />
+          <attvalue for="20" value="-112.56558" />
+          <attvalue for="21" value="125.879456" />
+        </attvalues>
+      </node>
+      <node id="42" label="torres">
+        <attvalues>
+          <attvalue for="0" value="torres" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Other" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1975" />
+          <attvalue for="6" value="Attending" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="Virgo" />
+          <attvalue for="10" value="5" />
+          <attvalue for="11" value="5.0" />
+          <attvalue for="12" value="0.4166666666666667" />
+          <attvalue for="13" value="0.505" />
+          <attvalue for="14" value="0.14680166640299536" />
+          <attvalue for="15" value="3" />
+          <attvalue for="16" value="11.5" />
+          <attvalue for="17" value="255" />
+          <attvalue for="18" value="136" />
+          <attvalue for="19" value="5" />
+          <attvalue for="20" value="-54.56246" />
+          <attvalue for="21" value="12.263428" />
+        </attvalues>
+      </node>
+      <node id="43" label="tucker">
+        <attvalues>
+          <attvalue for="0" value="tucker" />
+          <attvalue for="1" value="M" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Black" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="1970" />
+          <attvalue for="6" value="Non-Staff" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="Leo" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="2.0" />
+          <attvalue for="12" value="0.6" />
+          <attvalue for="13" value="0.6666666666666666" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="0" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="255" />
+          <attvalue for="18" value="85" />
+          <attvalue for="19" value="132" />
+          <attvalue for="20" value="-261.8954" />
+          <attvalue for="21" value="21.155952" />
+        </attvalues>
+      </node>
+      <node id="44" label="yang">
+        <attvalues>
+          <attvalue for="0" value="yang" />
+          <attvalue for="1" value="F" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Other" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1971" />
+          <attvalue for="6" value="Resident" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Cancer" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="7.0" />
+          <attvalue for="12" value="0.21739130434782608" />
+          <attvalue for="13" value="0.29793650793650794" />
+          <attvalue for="14" value="0.06312292358803986" />
+          <attvalue for="15" value="7" />
+          <attvalue for="16" value="7.25" />
+          <attvalue for="17" value="115" />
+          <attvalue for="18" value="192" />
+          <attvalue for="19" value="0" />
+          <attvalue for="20" value="-298.2097" />
+          <attvalue for="21" value="-78.96944" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="15" weight="1.0" />
+      <edge id="1" source="1" target="22" weight="1.0" />
+      <edge id="2" source="1" target="38" weight="1.0" />
+      <edge id="3" source="2" target="12" weight="1.0" />
+      <edge id="4" source="3" target="10" weight="1.0" />
+      <edge id="5" source="3" target="33" weight="1.0" />
+      <edge id="6" source="3" target="34" weight="1.0" />
+      <edge id="7" source="3" target="38" weight="1.0" />
+      <edge id="8" source="4" target="38" weight="1.0" />
+      <edge id="9" source="5" target="42" weight="1.0" />
+      <edge id="10" source="6" target="22" weight="1.0" />
+      <edge id="11" source="7" target="23" weight="1.0" />
+      <edge id="12" source="7" target="24" weight="1.0" />
+      <edge id="13" source="8" target="9" weight="1.0" />
+      <edge id="14" source="8" target="25" weight="1.0" />
+      <edge id="15" source="8" target="43" weight="1.0" />
+      <edge id="18" source="11" target="12" weight="1.0" />
+      <edge id="21" source="12" target="16" weight="1.0" />
+      <edge id="22" source="13" target="44" weight="1.0" />
+      <edge id="23" source="14" target="21" weight="1.0" />
+      <edge id="25" source="15" target="18" weight="1.0" />
+      <edge id="27" source="16" target="41" weight="1.0" />
+      <edge id="28" source="17" target="18" weight="1.0" />
+      <edge id="31" source="18" target="32" weight="1.0" />
+      <edge id="32" source="18" target="39" weight="1.0" />
+      <edge id="33" source="19" target="42" weight="1.0" />
+      <edge id="34" source="20" target="21" weight="1.0" />
+      <edge id="37" source="21" target="22" weight="1.0" />
+      <edge id="38" source="21" target="32" weight="1.0" />
+      <edge id="42" source="22" target="23" weight="1.0" />
+      <edge id="43" source="22" target="24" weight="1.0" />
+      <edge id="44" source="22" target="26" weight="1.0" />
+      <edge id="45" source="22" target="29" weight="1.0" />
+      <edge id="46" source="22" target="31" weight="1.0" />
+      <edge id="47" source="22" target="42" weight="1.0" />
+      <edge id="52" source="24" target="38" weight="1.0" />
+      <edge id="55" source="27" target="28" weight="1.0" />
+      <edge id="56" source="27" target="35" weight="1.0" />
+      <edge id="59" source="30" target="38" weight="1.0" />
+      <edge id="61" source="31" target="32" weight="1.0" />
+      <edge id="65" source="32" target="42" weight="1.0" />
+      <edge id="67" source="33" target="44" weight="1.0" />
+      <edge id="70" source="36" target="44" weight="1.0" />
+      <edge id="71" source="37" target="38" weight="1.0" />
+      <edge id="78" source="38" target="42" weight="1.0" />
+      <edge id="80" source="40" target="41" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

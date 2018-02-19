@@ -1,0 +1,211 @@
+-----
+965277849279057920
+-----
+965278120805896195
+-----
+965278136823963649
+-----
+965278152305139712
+-----
+965278414642049036
+-----
+965278427464044544
+-----
+965278436896976896
+-----
+965278444069191680
+-----
+965278452466290688
+-----
+965278460716376064
+-----
+965278730078826497
+-----
+965278740426113024
+{'id': 214658048, 'id_str': '214658048', 'name': 'Moraima Campbell', 'screen_name': 'Moraimacampbell', 'location': 'Monterrey, México', 'url': None, 'description': 'Computer Science Professor @TecdeMty. Apple Distinguished Educator #ADE2013. Interaction design and UX expert.', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 388, 'friends_count': 340, 'listed_count': 25, 'favourites_count': 646, 'statuses_count': 387, 'created_at': 'Thu Nov 11 22:51:45 +0000 2010', 'utc_offset': None, 'time_zone': None, 'geo_enabled': True, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/378800000222751334/2895bf783363bc43c79c0e245462fa2a_normal.jpeg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/378800000222751334/2895bf783363bc43c79c0e245462fa2a_normal.jpeg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/214658048/1375322279', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+Input para trabajar @elda_quiroga @vescalante00 https://t.co/kA8a3ahI8Y
+-----
+965278743219482624
+-----
+965278759912902657
+{'id': 843466579929108480, 'id_str': '843466579929108480', 'name': 'Andreas Rinke', 'screen_name': 'Andreas__Rinke', 'location': 'Berlin, Deutschland', 'url': 'https://de.m.wikipedia.org/wiki/Andreas_Rinke', 'description': 'Reuters, politischer Chefkorrespondent, hier privat, Ko-Autor von "11 drohende Kriege", Autor von "Das Merkel-Lexikon", Retweets are no endorsement', 'translator_type': 'none', 'protected': False, 'verified': True, 'followers_count': 1391, 'friends_count': 498, 'listed_count': 38, 'favourites_count': 580, 'statuses_count': 2333, 'created_at': 'Sun Mar 19 14:17:58 +0000 2017', 'utc_offset': 3600, 'time_zone': 'Berlin', 'geo_enabled': False, 'lang': 'de', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'F5F8FA', 'profile_background_image_url': '', 'profile_background_image_url_https': '', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/843474113532370944/gNCZauZX_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/843474113532370944/gNCZauZX_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/843466579929108480/1494256550', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+-----
+965278768553177088
+{'id': 326229600, 'id_str': '326229600', 'name': 'Fabrizio Bustamante', 'screen_name': 'Fabriziobustama', 'location': None, 'url': None, 'description': 'Hay dos tipos de educación, la que te enseña a ganarte la vida y la que te enseña a vivir...', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 3659, 'friends_count': 3441, 'listed_count': 452, 'favourites_count': 8836, 'statuses_count': 23358, 'created_at': 'Wed Jun 29 15:55:36 +0000 2011', 'utc_offset': -21600, 'time_zone': 'Central Time (US & Canada)', 'geo_enabled': True, 'lang': 'es', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '1A1B1F', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme9/bg.gif', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme9/bg.gif', 'profile_background_tile': False, 'profile_link_color': '2FC2EF', 'profile_sidebar_border_color': '181A1E', 'profile_sidebar_fill_color': '252429', 'profile_text_color': '666666', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/903154183662174210/N0kntfNq_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/903154183662174210/N0kntfNq_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/326229600/1484066866', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+#ArtificialIntelligence: The Force Awakens -From Past Year to 2035
+ #AI #MachineLearning #BigData #NLP #Startups… https://t.co/8s7rYwBOuT
+-----
+965278787494694914
+-----
+965278796072079360
+{'id': 711126662117601280, 'id_str': '711126662117601280', 'name': 'Mark White', 'screen_name': 'MarkWhite1983', 'location': 'United States', 'url': None, 'description': 'Fisherman, Author, Travel Junkie, Political Activist, Pikachu chooses me.', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 1289, 'friends_count': 4977, 'listed_count': 536, 'favourites_count': 8267, 'statuses_count': 41177, 'created_at': 'Sat Mar 19 09:46:23 +0000 2016', 'utc_offset': -28800, 'time_zone': 'Pacific Time (US & Canada)', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'F5F8FA', 'profile_background_image_url': '', 'profile_background_image_url_https': '', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/727461010232119298/Fr7ZhMrL_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/727461010232119298/Fr7ZhMrL_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/711126662117601280/1462275173', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @Fisher85M: How to Achieve #DigitalTransformation?
+
+[@ThingsExpo @schmarzo @DellEMC]
+
+#BigData #IoT #mobile #Analytics #Industry40 #Cybe…
+-----
+965278798101987328
+{'id': 819212862514020352, 'id_str': '819212862514020352', 'name': 'Edward Vicllates', 'screen_name': 'Yuntrz810', 'location': None, 'url': None, 'description': None, 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 7181, 'friends_count': 7319, 'listed_count': 0, 'favourites_count': 231, 'statuses_count': 126048, 'created_at': 'Wed Jan 11 16:02:21 +0000 2017', 'utc_offset': -28800, 'time_zone': 'Pacific Time (US & Canada)', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '000000', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': 'ABB8C2', 'profile_sidebar_border_color': '000000', 'profile_sidebar_fill_color': '000000', 'profile_text_color': '000000', 'profile_use_background_image': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/925382492265185280/Y8y7qUNB_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/925382492265185280/Y8y7qUNB_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/819212862514020352/1508810876', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @BitschoolAI: Huge #crypto #airdrop #airdropalert #ICO #presale #token #bitschool read up now #bitcoin #ethereum #tron #bsch #startup #C…
+-----
+965278802224926720
+{'id': 605434880, 'id_str': '605434880', 'name': 'Prof. Manish Thakur', 'screen_name': '2601Manish', 'location': 'India', 'url': 'https://www.linkedin.com/in/manishthakur2601', 'description': '#CoFounder #Professor X Channel on #YouTube & #Consultant at #PriceBaba #ContentWriter Prof #EngLit #EComm #AI #Econ #Bitcoin #FinTech & #Author of 5 #Books', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 1712, 'friends_count': 1211, 'listed_count': 1264, 'favourites_count': 2924, 'statuses_count': 82988, 'created_at': 'Mon Jun 11 13:50:05 +0000 2012', 'utc_offset': 19800, 'time_zone': 'Chennai', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/820339510294810628/R8N9OWoX_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/820339510294810628/R8N9OWoX_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/605434880/1423923418', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @IoTagger: From #VR #AR #IOT and #wearables to #autonomouscars #ai and #robots here are the main #CES products #SmartCity  https://t.co/…
+-----
+965278805911883776
+{'id': 926034638048444416, 'id_str': '926034638048444416', 'name': 'Social Studios', 'screen_name': 'Social1Studios', 'location': 'Chicago, IL', 'url': None, 'description': 'We tweet about social technologies, trends and learning. Social media tips in our free time. #Marketing, #DigitalMedia, #EmailMarketing, #SocialMedia', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 266, 'friends_count': 348, 'listed_count': 8, 'favourites_count': 27, 'statuses_count': 1145, 'created_at': 'Thu Nov 02 10:33:57 +0000 2017', 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '000000', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '080808', 'profile_sidebar_border_color': '000000', 'profile_sidebar_fill_color': '000000', 'profile_text_color': '000000', 'profile_use_background_image': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/926041044549955584/vhqRtKh7_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/926041044549955584/vhqRtKh7_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/926034638048444416/1509619838', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+Artificial intelligence and machine learning are set to revolutionize how we work. #Startups #AI #SmallBusiness https://t.co/WQltIpeMHm
+-----
+965278806046109697
+{'id': 248706833, 'id_str': '248706833', 'name': 'Relevanza', 'screen_name': 'Relevanza', 'location': 'Florida, USA', 'url': 'http://www.relevanza.com/', 'description': 'strategic.innovative.communication  ...digital marketing consultants and wizards. Community Architects and Builders. Digital Space. Mobile Space.', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 5355, 'friends_count': 5743, 'listed_count': 1365, 'favourites_count': 6056, 'statuses_count': 58014, 'created_at': 'Mon Feb 07 15:18:21 +0000 2011', 'utc_offset': -18000, 'time_zone': 'Eastern Time (US & Canada)', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '003B9F', 'profile_background_image_url': 'http://pbs.twimg.com/profile_background_images/740889635/d49286478722bd4d1f763d32285cc7c4.gif', 'profile_background_image_url_https': 'https://pbs.twimg.com/profile_background_images/740889635/d49286478722bd4d1f763d32285cc7c4.gif', 'profile_background_tile': False, 'profile_link_color': '0084B4', 'profile_sidebar_border_color': 'FFFFFF', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/2988001914/ed2be08baca328d4a0e96f1beb4b4eee_normal.jpeg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/2988001914/ed2be08baca328d4a0e96f1beb4b4eee_normal.jpeg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/248706833/1398252884', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+The latest The  Mobile Society Daily! https://t.co/0YtqVPujdE Thanks to @KevinCTofel @willemjhboijens #artificialintelligence #ai
+-----
+965278806167531520
+{'id': 778368506, 'id_str': '778368506', 'name': 'Marcia Chen', 'screen_name': 'MarciaChen07', 'location': None, 'url': None, 'description': None, 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 38, 'friends_count': 270, 'listed_count': 0, 'favourites_count': 232, 'statuses_count': 67, 'created_at': 'Fri Aug 24 15:06:28 +0000 2012', 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '000000', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '91D2FA', 'profile_sidebar_border_color': '000000', 'profile_sidebar_fill_color': '000000', 'profile_text_color': '000000', 'profile_use_background_image': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/849481383269593088/Nb9BlNXX_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/849481383269593088/Nb9BlNXX_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/778368506/1491367194', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @BaisaliGhosh1: And all these innovations! https://t.co/Fl40A47qeJ
+-----
+965278811070676992
+{'id': 605434880, 'id_str': '605434880', 'name': 'Prof. Manish Thakur', 'screen_name': '2601Manish', 'location': 'India', 'url': 'https://www.linkedin.com/in/manishthakur2601', 'description': '#CoFounder #Professor X Channel on #YouTube & #Consultant at #PriceBaba #ContentWriter Prof #EngLit #EComm #AI #Econ #Bitcoin #FinTech & #Author of 5 #Books', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 1712, 'friends_count': 1211, 'listed_count': 1264, 'favourites_count': 2924, 'statuses_count': 82989, 'created_at': 'Mon Jun 11 13:50:05 +0000 2012', 'utc_offset': 19800, 'time_zone': 'Chennai', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/820339510294810628/R8N9OWoX_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/820339510294810628/R8N9OWoX_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/605434880/1423923418', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @IoTagger: 2017 was the year of numbers: a look at  #AI , #YCombinator and #investment funds #startups #ArtificialIntelligence #BigData…
+-----
+965278812043870209
+-----
+965278831375474688
+{'id': 352615777, 'id_str': '352615777', 'name': 'Marie Donelly', 'screen_name': 'PleasureEthics', 'location': 'England, United Kingdom', 'url': 'https://knowingcreation.wordpress.com/', 'description': 'Filing myself under alternative living. Evolving metaphysics to where it should be, art & science combined for a truer bigger picture.', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 7832, 'friends_count': 5515, 'listed_count': 618, 'favourites_count': 3990, 'statuses_count': 91512, 'created_at': 'Wed Aug 10 21:32:18 +0000 2011', 'utc_offset': 0, 'time_zone': 'London', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '000000', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '1B95E0', 'profile_sidebar_border_color': '000000', 'profile_sidebar_fill_color': '000000', 'profile_text_color': '000000', 'profile_use_background_image': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/814234413437513728/dGIRqs5l_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/814234413437513728/dGIRqs5l_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/352615777/1467627699', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+When they get away with it for long enough they actually start to believe they have super powers. They forget that… https://t.co/bStuLTE35f
+-----
+965278836026900480
+{'id': 2344721209, 'id_str': '2344721209', 'name': 'Susan Gibran', 'screen_name': 'SusanGibran', 'location': 'United States', 'url': None, 'description': 'Digital Marketing | Online Marketing | Entrepreneur | Social Media Management Services', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 1324, 'friends_count': 3503, 'listed_count': 391, 'favourites_count': 9061, 'statuses_count': 162206, 'created_at': 'Sat Feb 15 07:21:14 +0000 2014', 'utc_offset': 19800, 'time_zone': 'New Delhi', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/795233103602061312/MI1bwyep_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/795233103602061312/MI1bwyep_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/2344721209/1478433431', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @MikeQuindazzi: Impact of #selfdrivingcars? Much like the #smartphone, these #connectedcars will add billions of hours #media screen tim…
+-----
+965278839004958726
+{'id': 962595301109518336, 'id_str': '962595301109518336', 'name': 'Dw-Develops', 'screen_name': 'Dw_Develops', 'location': 'Usa', 'url': None, 'description': "I'm a Front-End Web Developer who's Passionate about Game and Application Development, Chat Bots, Artificial Intelligence, Business Automation, and Social Media", 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 151, 'friends_count': 305, 'listed_count': 6, 'favourites_count': 13, 'statuses_count': 1280, 'created_at': 'Sun Feb 11 07:52:58 +0000 2018', 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'F5F8FA', 'profile_background_image_url': '', 'profile_background_image_url_https': '', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/962596085893074944/IVIb6orH_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/962596085893074944/IVIb6orH_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/962595301109518336/1518336316', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @debbiediscovers: Your Top 5 Facebook Chatbot Questions Answered https://t.co/GPkOLq4CQA #bots #AI #chatbots
+-----
+965278851239686144
+{'id': 511740616, 'id_str': '511740616', 'name': 'BIconnections', 'screen_name': 'biconnections', 'location': 'Belgium', 'url': 'http://bit.ly/IHhZkz', 'description': 'Networking | connecting | people | technology | #process | #Business #Intelligence | #Information #Management | #data | learning discussions | #Community', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 52900, 'friends_count': 39766, 'listed_count': 13339, 'favourites_count': 34395, 'statuses_count': 326503, 'created_at': 'Fri Mar 02 10:51:48 +0000 2012', 'utc_offset': 7200, 'time_zone': 'Athens', 'geo_enabled': True, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'C1EBCE', 'profile_background_image_url': 'http://pbs.twimg.com/profile_background_images/681080469/fba2cb40e09b55ac575426914d8a7737.jpeg', 'profile_background_image_url_https': 'https://pbs.twimg.com/profile_background_images/681080469/fba2cb40e09b55ac575426914d8a7737.jpeg', 'profile_background_tile': False, 'profile_link_color': '0084B4', 'profile_sidebar_border_color': 'FFFFFF', 'profile_sidebar_fill_color': '82868C', 'profile_text_color': 'C1C497', 'profile_use_background_image': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1866862979/50519_388209157862059_947380685_n_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1866862979/50519_388209157862059_947380685_n_normal.jpg', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @AlecSocial: RT @abincbr: Relevant Trends of #DigitalTransformation in 2018
+
+https://t.co/KPtnYtYSur
+
+#Fintech #Finserv #AI #ML #IoT #Te…
+-----
+965278871665995777
+{'id': 3225908654, 'id_str': '3225908654', 'name': 'Mary Senf', 'screen_name': 'mustardmary7', 'location': 'United States', 'url': None, 'description': "Glad I'm not a model. #Nature #Fitbit #Imwithher #amreading", 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 1185, 'friends_count': 2376, 'listed_count': 1820, 'favourites_count': 26551, 'statuses_count': 137415, 'created_at': 'Mon May 25 06:17:23 +0000 2015', 'utc_offset': -21600, 'time_zone': 'Central Time (US & Canada)', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/602720468844482560/ajls4c8r_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/602720468844482560/ajls4c8r_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/3225908654/1432534753', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @MikeQuindazzi: Impact of #selfdrivingcars? Much like the #smartphone, these #connectedcars will add billions of hours #media screen tim…
+-----
+965278872366403584
+{'id': 851180094508867584, 'id_str': '851180094508867584', 'name': 'Sam Kelly', 'screen_name': 'SamKelly63', 'location': 'Salt Lake City, UT', 'url': None, 'description': 'Stuck in a harbor when it comes to your digital marketing efforts? We’ll help you. Specializing in social media training & more.', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 578, 'friends_count': 1777, 'listed_count': 41, 'favourites_count': 2859, 'statuses_count': 37169, 'created_at': 'Sun Apr 09 21:08:43 +0000 2017', 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'F5F8FA', 'profile_background_image_url': '', 'profile_background_image_url_https': '', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/853017091896557568/8c5Luxve_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/853017091896557568/8c5Luxve_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/851180094508867584/1492210149', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @Fisher85M: How to Achieve #DigitalTransformation?
+
+[@ThingsExpo @schmarzo @DellEMC]
+
+#BigData #IoT #mobile #Analytics #Industry40 #Cybe…
+-----
+965278880075526145
+{'id': 50200233, 'id_str': '50200233', 'name': 'CancerGeek', 'screen_name': 'CancerGeek', 'location': 'United States', 'url': 'http://cancergeek.wordpress.com', 'description': 'Writing on #GFHC - Develop Hosp & Cancer Ctrs US & China; #JACR Assoc Editor; Design Patient-MD Exp; #HCLDR #radiology https://youtu.be/PfM3hLyfHf8', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 13734, 'friends_count': 5212, 'listed_count': 2074, 'favourites_count': 10722, 'statuses_count': 116042, 'created_at': 'Wed Jun 24 03:27:20 +0000 2009', 'utc_offset': -21600, 'time_zone': 'Central Time (US & Canada)', 'geo_enabled': True, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '000000', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': 'ABB8C2', 'profile_sidebar_border_color': '000000', 'profile_sidebar_fill_color': '000000', 'profile_text_color': '000000', 'profile_use_background_image': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/800438414789214208/1uIr0nif_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/800438414789214208/1uIr0nif_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/50200233/1426699672', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+-----
+965279145868611584
+{'id': 2387002226, 'id_str': '2387002226', 'name': 'Draven Barker', 'screen_name': 'DravenBarker', 'location': 'United States', 'url': None, 'description': 'I love travelling ... tweeting and photography!', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 1240, 'friends_count': 3889, 'listed_count': 445, 'favourites_count': 12398, 'statuses_count': 161304, 'created_at': 'Thu Mar 13 13:42:05 +0000 2014', 'utc_offset': -28800, 'time_zone': 'Pacific Time (US & Canada)', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/744508243653754880/Kazd8ZyF_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/744508243653754880/Kazd8ZyF_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/2387002226/1466339311', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @Fisher85M: How to Achieve #DigitalTransformation?
+
+[@ThingsExpo @schmarzo @DellEMC]
+
+#BigData #IoT #mobile #Analytics #Industry40 #Cybe…
+-----
+965279148427051010
+{'id': 3225978199, 'id_str': '3225978199', 'name': 'Candice Cosfin', 'screen_name': 'CandiceCosfin', 'location': 'United States', 'url': None, 'description': 'risk-taker, change agent, entrepreneur, social chameleon, fundraiser, marketing strategist, social media enthusiast, animal lover and bird watcher.', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 994, 'friends_count': 3331, 'listed_count': 421, 'favourites_count': 25052, 'statuses_count': 137029, 'created_at': 'Mon May 25 07:10:25 +0000 2015', 'utc_offset': -28800, 'time_zone': 'Pacific Time (US & Canada)', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/602733527973515266/h6GgNDXl_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/602733527973515266/h6GgNDXl_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/3225978199/1432537867', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @Fisher85M: How to Achieve #DigitalTransformation?
+
+[@ThingsExpo @schmarzo @DellEMC]
+
+#BigData #IoT #mobile #Analytics #Industry40 #Cybe…
+-----
+965279160615698432
+{'id': 3225908654, 'id_str': '3225908654', 'name': 'Mary Senf', 'screen_name': 'mustardmary7', 'location': 'United States', 'url': None, 'description': "Glad I'm not a model. #Nature #Fitbit #Imwithher #amreading", 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 1185, 'friends_count': 2376, 'listed_count': 1820, 'favourites_count': 26551, 'statuses_count': 137416, 'created_at': 'Mon May 25 06:17:23 +0000 2015', 'utc_offset': -21600, 'time_zone': 'Central Time (US & Canada)', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/602720468844482560/ajls4c8r_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/602720468844482560/ajls4c8r_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/3225908654/1432534753', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @SachinLulla: Cloud Computing in #IndustrialIoT Market: Result Associated with Existing and Promising Market, Forecast-2022 https://t.co…
+-----
+965279161626619905
+{'id': 14956106, 'id_str': '14956106', 'name': 'CellStrat', 'screen_name': 'CellStrat', 'location': 'USA and India', 'url': None, 'description': 'Management Consulting firm specializing in Strategy and Solutions for #AI, #ML, #disrupt4.0, #EmergeTech, #mobile, #digital...', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 473, 'friends_count': 413, 'listed_count': 26, 'favourites_count': 201, 'statuses_count': 5004, 'created_at': 'Fri May 30 16:57:05 +0000 2008', 'utc_offset': -18000, 'time_zone': 'Indiana (East)', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/693154888/cellstrat_logo__Small__normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/693154888/cellstrat_logo__Small__normal.jpg', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @sfeldman0: [slides] Technical Strategy for IIoT | @ThingsExpo #IoT #IIoT #M2M #AI #DX https://t.co/V1VdgtFf2P https://t.co/kXeFZvEz7C
+-----
+965279163547447296
+{'id': 514183981, 'id_str': '514183981', 'name': 'Hafiz', 'screen_name': 'hafiz_khan_me', 'location': 'Khulna,Bangladesh', 'url': 'https://themeforest.net/user/wpthemeshaper/', 'description': 'I am a professional #web #designer and #developer also #graphic #designer with 6+ year experience. my services #ui #ux #WordPress #PSD #graphic #Logo #template', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 1079, 'friends_count': 4752, 'listed_count': 13, 'favourites_count': 548, 'statuses_count': 2232, 'created_at': 'Sun Mar 04 10:20:01 +0000 2012', 'utc_offset': 21600, 'time_zone': 'Dhaka', 'geo_enabled': True, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '000000', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme12/bg.gif', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme12/bg.gif', 'profile_background_tile': False, 'profile_link_color': 'FFCC4D', 'profile_sidebar_border_color': '000000', 'profile_sidebar_fill_color': '000000', 'profile_text_color': '000000', 'profile_use_background_image': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/597962106101628928/FvBc4TN2_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/597962106101628928/FvBc4TN2_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/514183981/1503712623', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+@Lawrence @everyhumanknows @marcorubio If You need a freelancer to edit your (PDF, PNG, JEPG, BMP Images, Scanned,… https://t.co/kzqXEeWIYR
+-----
+965279163904151553
+{'id': 854714814, 'id_str': '854714814', 'name': 'Bonnie Robinson', 'screen_name': 'BonnieFRobinson', 'location': 'Manhattan, NY', 'url': 'https://twitter.com/BonnieFRobinson', 'description': 'Technology fanatic. Passionate writer. #AI nerd. Hipster-friendly entrepreneur.', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 3276, 'friends_count': 4970, 'listed_count': 87, 'favourites_count': 25785, 'statuses_count': 5203, 'created_at': 'Sun Sep 30 13:33:10 +0000 2012', 'utc_offset': -18000, 'time_zone': 'Eastern Time (US & Canada)', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '000000', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '981CEB', 'profile_sidebar_border_color': '000000', 'profile_sidebar_fill_color': '000000', 'profile_text_color': '000000', 'profile_use_background_image': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/860686590200250372/-mbybRly_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/860686590200250372/-mbybRly_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/854714814/1494038662', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @MikeQuindazzi: Impact of #selfdrivingcars? Much like the #smartphone, these #connectedcars will add billions of hours #media screen tim…
+-----
+965279164927561728
+{'id': 854907884, 'id_str': '854907884', 'name': 'Gianna Heaven', 'screen_name': 'HeavenGianna', 'location': 'United States', 'url': None, 'description': 'Travel mom, travel writer, social media enthusiast, L.A. native providing travel news and views in Los Angeles', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 2304, 'friends_count': 3900, 'listed_count': 2460, 'favourites_count': 16744, 'statuses_count': 426082, 'created_at': 'Sun Sep 30 15:40:17 +0000 2012', 'utc_offset': -18000, 'time_zone': 'Eastern Time (US & Canada)', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/800894381834125312/GQLGx1Ag_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/800894381834125312/GQLGx1Ag_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/854907884/1466328273', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @Fisher85M: How to Achieve #DigitalTransformation?
+
+[@ThingsExpo @schmarzo @DellEMC]
+
+#BigData #IoT #mobile #Analytics #Industry40 #Cybe…
+-----
+965279167779606531
+{'id': 564669849, 'id_str': '564669849', 'name': 'Denis Rusinovich', 'screen_name': 'DenisRusinovich', 'location': None, 'url': None, 'description': None, 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 71, 'friends_count': 297, 'listed_count': 2, 'favourites_count': 43, 'statuses_count': 832, 'created_at': 'Fri Apr 27 13:05:40 +0000 2012', 'utc_offset': 3600, 'time_zone': 'Berlin', 'geo_enabled': False, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '000000', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme14/bg.gif', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme14/bg.gif', 'profile_background_tile': False, 'profile_link_color': '91D2FA', 'profile_sidebar_border_color': '000000', 'profile_sidebar_fill_color': '000000', 'profile_text_color': '000000', 'profile_use_background_image': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/961653182979100673/KvfNIUfG_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/961653182979100673/KvfNIUfG_normal.jpg', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}
+RT @dbrainio: In #crypto we trust! @Dbrainio makes a show on @Cointelegraph: “Dbrain could become an appealing offer for any #AI companies…
+-----
+965279173278187521
+-----
+965279181738098689
+-----
+965279195390791680
+-----
+965279202873348096
+-----
+965279212759371776
+-----
+965279218690031619
+-----
+965279480947380226
+-----
+965279488555839488
+-----
+965279494528479233
+-----
+965279500467687424
+-----
+965279507631390720
+-----
+965279524014485506
+-----
+965279786368057344
+-----
+965279793620115458
+-----
+965279804818780161
+-----
+965279811412353024
+-----
+965279818802659330
+-----
+965279827925356544
+-----
+965280090996195328
+-----
+965280101465296902
+-----
+965280107681103873
+-----
+965280127616774144
+-----
+965280134281523200
+-----
+965280143299174400
+-----
+965280407074861056
+-----
+965280413785706497
+-----
+965280428130217986
+-----
+965280434782384128
+-----
+965280442340466688
+-----
+965280449428934657

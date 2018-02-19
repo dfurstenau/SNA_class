@@ -1,0 +1,45 @@
+Id,name,sex,sex_int,race,race_int,birthyear,position,position_int,season,sign
+1,addison,F,0,White,1,1967,Attending,1,1,Libra
+2,adele,F,0,Black,2,1949,Non-Staff,2,2,Leo
+3,altman,F,0,White,1,1969,Attending,1,6,Pisces
+4,amelia,F,0,White,1,1981,Attending,1,7,Libra
+5,arizona,F,0,White,1,1976,Attending,1,5,Leo
+6,ava,F,0,White,1,1975,Non-Staff,2,3,Gemini
+7,avery,M,1,Black,2,1981,Resident,3,6,Leo
+8,bailey,F,0,Black,2,1969,Attending,1,1,Virgo
+9,ben,M,1,Black,2,1972,Other,7,6,Aquarius
+10,burton,M,1,White,1,1972,Non-Staff,2,7,Cancer
+11,catherine,F,0,Other,3,1950,Attending,1,8,Capricorn
+12,chief,M,1,Black,2,1954,Chief,4,1,Scorpio
+13,colin,M,1,White,1,1944,Attending,1,3,Taurus
+14,denny,M,1,White,1,1966,Non-Staff,2,2,Taurus
+15,derek,M,1,White,1,1966,Attending,1,1,Capricorn
+16,ellis grey,F,0,White,1,1957,Attending,1,1,Virgo
+17,finn,M,1,White,1,1970,Non-Staff,2,2,Cancer
+18,grey,F,0,White,1,1969,Resident,3,1,Scorpio
+19,hahn,F,0,White,1,1967,Attending,1,2,Gemini
+20,hank,M,1,White,1,1975,Non-Staff,2,1,Sagittarius
+21,izzie,F,0,White,1,1978,Resident,3,1,Sagittarius
+22,karev,M,1,White,1,1970,Resident,3,1,Cancer
+23,kepner,F,0,White,1,1980,Resident,3,6,Libra
+24,lexi,F,0,White,1,1982,Resident,3,3,Aries
+25,lloyd,M,1,Black,2,1971,Nurse,5,7,Capricorn
+26,lucy,F,0,White,1,1984,Attending,1,7,Cancer
+27,megan,F,0,White,1,1979,Intern,6,4,NA
+28,mostow,M,1,White,1,1985,Intern,6,4,Gemini
+29,mrs. seabury,F,0,White,1,1952,Non-Staff,2,3,Leo
+30,nancy,F,0,White,1,1965,Non-Staff,2,3,Leo
+31,olivia,F,0,White,1,1982,Nurse,5,1,Capricorn
+32,o'malley,M,1,White,1,1973,Resident,3,1,Aries
+33,owen,M,1,White,1,1973,Chief,4,5,Leo
+34,perkins,M,1,White,1,1965,Other,7,7,Leo
+35,pierce,M,1,White,1,1986,Intern,6,4,NA
+36,preston,M,1,Black,2,1963,Attending,1,1,Leo
+37,reed,F,0,White,1,1981,Resident,3,6,Aquarius
+38,sloan,M,1,White,1,1972,Attending,1,2,Scorpio
+39,steve,M,1,Other,3,1984,Non-Staff,2,2,Gemini
+40,susan grey,F,0,White,1,1959,Non-Staff,2,2,Taurus
+41,thatch grey,M,1,White,1,1955,Non-Staff,2,2,Leo
+42,torres,F,0,Other,3,1975,Attending,1,2,Virgo
+43,tucker,M,1,Black,2,1970,Non-Staff,2,2,Leo
+44,yang,F,0,Other,3,1971,Resident,3,1,Cancer
